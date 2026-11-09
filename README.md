@@ -138,7 +138,7 @@ No conversion statistics, patient-growth figures, performance scores, or product
 
 ## 🖼️ Preview
 
-![SmileCare Dental – Project Preview](assets/smilecare-dental-preview.png)
+![SmileCare Dental – Project Preview](smile-care.png)
 
 ## 🤝 Notes
 
