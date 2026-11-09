@@ -168,9 +168,10 @@ This repository is intended solely for portfolio and product-demonstration purpo
 All patient-facing examples, appointment information, clinic statistics, contact details, and clinical imagery used in the showcase should remain fictional, licensed, or anonymized. Production credentials and clinic-specific data must be maintained separately and securely.
 
 ## 📄 License
+This project is proprietary and provided for portfolio and product demonstration purposes only.
 
-This repository is not licensed for redistribution or reuse.\
-All content is provided for demonstration and portfolio purposes only.
+No permission is granted to copy, modify, redistribute, resell, sublicense, or create derivative works without prior written authorization.
 
-> © 2026 – SmileCare Dental\
-> *Relevant development contribution by Shahinur Alam Bhuiyan*
+For customization or commercial licensing, contact [Shahinur Alam Bhuiyan](mailto:shahinur.alam.bhuiyan01@gmail.com).
+
+> Copyright © 2026 Shahinur Alam Bhuiyan and contributors. All rights reserved.
